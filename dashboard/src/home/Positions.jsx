@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 const Positions = () => {
   const [positions, setPositions] = useState([]);
   useEffect(()=>{
-    axios.get("http://localhost:3000/allPositions")
+    axios.get("https://boeki.onrender.com/allPositions")
     .then((res)=>{
       setPositions(res.data)
     })
