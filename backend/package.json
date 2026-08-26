@@ -1,4 +1,7 @@
 {
+  "scripts": {
+  "start": "node app.js"
+  },
   "type": "module",
   "dependencies": {
     "body-parser": "^2.3.0",
