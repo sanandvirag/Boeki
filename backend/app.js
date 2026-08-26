@@ -6,7 +6,7 @@ import Holding from "./models/holdings.js";
 import Position from "./models/positions.js";
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 
 app.use(cors());
