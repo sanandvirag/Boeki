@@ -1,0 +1,11 @@
+.ann{
+  background-color: oklab(0.758643 0.0867323 0.15411 / 0.1);
+  padding-left: 2rem;
+}
+.ann a{
+  text-decoration: underline;
+}
+.list{
+  margin-left: 1rem;
+  padding: 1rem;
+}

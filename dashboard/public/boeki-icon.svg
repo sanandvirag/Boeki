@@ -1,0 +1,24 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bk-grad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0EA5A0"/>
+      <stop offset="100%" stop-color="#0B7A85"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="120" height="120" rx="28" fill="#0B1F2A"/>
+
+  <rect x="28" y="70" width="12" height="26" rx="3" fill="url(#bk-grad)"/>
+  <rect x="28" y="60" width="12" height="6" fill="url(#bk-grad)" opacity="0.5"/>
+
+  <rect x="50" y="54" width="12" height="42" rx="3" fill="url(#bk-grad)"/>
+  <rect x="50" y="44" width="12" height="6" fill="url(#bk-grad)" opacity="0.5"/>
+
+  <rect x="72" y="36" width="12" height="60" rx="3" fill="url(#bk-grad)"/>
+  <rect x="72" y="26" width="12" height="6" fill="url(#bk-grad)" opacity="0.5"/>
+
+  <path d="M28 68 L50 52 L72 34 L94 20" stroke="#F2C744" stroke-width="4"
+        stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M84 20 L94 20 L94 30" stroke="#F2C744" stroke-width="4"
+        stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

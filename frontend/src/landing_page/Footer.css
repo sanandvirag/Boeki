@@ -1,0 +1,42 @@
+.footer{
+  background-color: #f7f6f6;
+  margin-bottom: 0;
+  padding: 20px 100px 20px 100px;
+  border: 1px solid rgb(204, 204, 204);
+}
+.footer h6{
+  margin-bottom: 1rem;
+}
+
+.footer ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer li{
+  margin-bottom: 1rem;
+}
+
+.footer li:hover{
+  color: #059669;
+  cursor: pointer;
+}
+
+.footer span{
+  margin-right: 1rem;
+}
+
+.footer hr {
+  border: 0;
+  border-top: 2px solid #a0a0a0;
+  margin: 10px 0;
+}
+
+.first-half{
+  font-size: small;
+}
+.second-half{
+  color: #848383;
+  font-size: 11px;
+}

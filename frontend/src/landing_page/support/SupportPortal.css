@@ -1,0 +1,30 @@
+.support-portal{
+  margin-top: 3rem;
+  background-color: rgb(222, 222, 222);
+}
+
+.heading{
+  font-weight: 500;
+  font-size: xx-large;
+}
+
+.btn-heading{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.btn{
+  width: 100px;
+  border-radius: 10px;
+}
+
+.search-bar{
+  height: 4rem;
+  padding-left: 40px;
+}
+
+input{
+  all:unset
+}
