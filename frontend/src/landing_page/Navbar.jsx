@@ -12,19 +12,19 @@ function Navbar() {
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         
               <li className="nav-item">
-                <a className="nav-link" href="/signup">Signup</a>
+                <a className="nav-link" href="https://boeki-1.onrender.com/signup">Signup</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/about">About</a>
+                <a className="nav-link" href="https://boeki-1.onrender.com/about">About</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/products">Produts</a>
+                <a className="nav-link" href="https://boeki-1.onrender.com/products">Produts</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/pricing">Pricing</a>
+                <a className="nav-link" href="https://boeki-1.onrender.com/pricing">Pricing</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/support">Support</a>
+                <a className="nav-link" href="https://boeki-1.onrender.com/support">Support</a>
               </li>
               <li className="nav-item dropdown">
                 <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
